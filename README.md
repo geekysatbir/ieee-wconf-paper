@@ -1,4 +1,4 @@
-# IEEE Conference Paper
+# Observability - IEEE Conference Paper
 
 ## Publication Details
 This repository contains the IEEE conference paper publication.
