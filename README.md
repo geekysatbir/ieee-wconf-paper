@@ -1,11 +1,5 @@
 # IEEE Conference Paper
 
-<div align="center">
-  <img src="https://github.com/geekysatbir.png" alt="Satbir Singh" width="200" style="border-radius: 50%;"/>
-  <br/>
-  <strong>Satbir Singh</strong>
-</div>
-
 ## Publication Details
 This repository contains the IEEE conference paper publication.
 
