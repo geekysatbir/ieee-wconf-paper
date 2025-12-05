@@ -19,9 +19,6 @@ This repository contains the IEEE conference paper publication.
 ## Publication Status
 Published in IEEE conference proceedings.
 
-## EB1A Evidence
-This publication serves as evidence of extraordinary ability in the field of Customer Engineering with focus on Artificial Intelligence Operations and Observability.
-
 ## Code Implementation
 
 This repository includes a Python implementation of the end-to-end ML pipeline system described in the paper.
